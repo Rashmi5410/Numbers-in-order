@@ -1,0 +1,13 @@
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\obj\Debug\netcoreapp3.1\wa3.csprojAssemblyReference.cache
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\obj\Debug\netcoreapp3.1\wa3.AssemblyInfoInputs.cache
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\obj\Debug\netcoreapp3.1\wa3.AssemblyInfo.cs
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\obj\Debug\netcoreapp3.1\wa3.csproj.CoreCompileInputs.cache
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\bin\Debug\netcoreapp3.1\wa3.exe
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\bin\Debug\netcoreapp3.1\wa3.deps.json
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\bin\Debug\netcoreapp3.1\wa3.runtimeconfig.json
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\bin\Debug\netcoreapp3.1\wa3.runtimeconfig.dev.json
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\bin\Debug\netcoreapp3.1\wa3.dll
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\bin\Debug\netcoreapp3.1\wa3.pdb
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\obj\Debug\netcoreapp3.1\wa3.dll
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\obj\Debug\netcoreapp3.1\wa3.pdb
+C:\Users\Jade5\Desktop\BME121\WeeklyAssignments\wa3\wa3\obj\Debug\netcoreapp3.1\wa3.genruntimeconfig.cache
